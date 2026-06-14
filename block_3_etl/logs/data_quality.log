@@ -1,0 +1,5 @@
+customers: raw_rows=715, clean_rows=684, removed_rows=31
+orders: raw_rows=1220, clean_rows=1113, removed_rows=107
+products: raw_rows=610, clean_rows=581, removed_rows=29
+payments: raw_rows=1012, clean_rows=695, removed_rows=317
+events: raw_rows=1501, clean_rows=1450, removed_rows=51
