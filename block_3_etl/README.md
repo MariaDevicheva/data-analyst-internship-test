@@ -241,7 +241,7 @@ sql/analytics.sql
 
 ## Используемые технологии
 
-* Python 3.14
+* Python 3.10+
 * Pandas
 * SQLAlchemy
 * SQLite
