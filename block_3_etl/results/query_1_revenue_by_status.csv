@@ -1,0 +1,4 @@
+status,orders_count,total_order_amount,avg_order_amount
+processing,378,303294.33,802.37
+completed,393,301295.83,766.66
+cancelled,342,252232.95,737.52

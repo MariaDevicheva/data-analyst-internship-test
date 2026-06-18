@@ -1,0 +1,4 @@
+payment_method,payments_count,total_payment_amount,avg_payment_amount
+card,246,342853.98,1393.72
+paypal,233,359011.59,1540.82
+bank_transfer,216,325996.85,1509.24

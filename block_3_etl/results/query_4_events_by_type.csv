@@ -1,0 +1,6 @@
+event_type,events_count,unique_customers
+view,319,260
+click,306,244
+logout,289,237
+login,272,221
+purchase,264,217
