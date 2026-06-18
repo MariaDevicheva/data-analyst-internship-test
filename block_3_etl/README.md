@@ -1,6 +1,6 @@
 # Music Analytics ETL Pipeline
 
-**Python 3.14 | Pandas | SQL | SQLite | Docker | ETL**
+**Python | Pandas | SQL | SQLite | Docker | ETL**
 
 ## Описание проекта
 
@@ -203,7 +203,6 @@ products: 581 rows
 payments: 695 rows
 events: 1450 rows
 ```
-
 ---
 
 ## Запуск через Docker
@@ -244,7 +243,6 @@ sql/analytics.sql
 
 * Python 3.14
 * Pandas
-* NumPy
 * SQLAlchemy
 * SQLite
 * OpenPyXL
