@@ -176,7 +176,7 @@
 ```text
 block_1_sql/
 │
-├── solution.sql
+├── block_1_sql_solution.sql
 ├── report.md
 └── README.md
 ```
